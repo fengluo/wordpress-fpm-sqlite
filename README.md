@@ -2,6 +2,12 @@
 
 Lightweight Wordpress on Alpine with php-fpm ondemand and SQLite instead of MySQL.
 
+## Install
+
+```
+docker pull fengluo/wordpress-fpm-sqlite
+```
+
 ## Example
 
 ```
