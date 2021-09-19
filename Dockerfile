@@ -1,4 +1,4 @@
-FROM wordpress:fpm-alpine
+FROM wordpress:4.9-fpm-alpine
 
 COPY docker-entrypoint.sh /usr/local/bin/
 
